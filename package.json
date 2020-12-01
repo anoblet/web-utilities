@@ -1,0 +1,20 @@
+{
+  "name": "@anoblet/web-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "@material/mwc-button": "^0.19.1",
+    "@material/mwc-snackbar": "^0.19.1",
+    "workbox-window": "^6.0.0"
+  }
+}
