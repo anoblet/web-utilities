@@ -4,7 +4,8 @@
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "save": "git add . && git commit -m \"chore(package): save\""
   },
   "keywords": [],
   "author": "",
