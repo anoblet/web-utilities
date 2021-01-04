@@ -16,6 +16,6 @@
   "dependencies": {
     "@material/mwc-button": "^0.19.1",
     "@material/mwc-snackbar": "^0.19.1",
-    "workbox-window": "^6.0.0"
+    "workbox-window": "^6.0.2"
   }
 }
